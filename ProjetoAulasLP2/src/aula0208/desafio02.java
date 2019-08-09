@@ -1,4 +1,4 @@
-package aula0108;
+package aula0208;
 
 import java.time.Duration;
 import java.time.LocalDateTime;
@@ -6,7 +6,7 @@ import java.time.Month;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
-public class desafio2 {
+public class desafio02 {
 	public static void main(String[] args) {
 		
 		LocalDateTime hora = LocalDateTime.now();
